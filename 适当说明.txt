@@ -1,0 +1,13 @@
+启动方式 
+1.通过启动系统.bat文件启动前端程序
+2.打开idea找到student-score-system\src\main\java\com\system\StudentScoreSystemApplication.java这个文件,运行后端程序
+
+
+主页面地址:http://localhost:5174/
+通过账号密码登录,管理员,学生,老师三种用户,
+
+
+
+
+
+API帮助文档地址:http://localhost:8080/api/doc.html#/home     管理各种接口,能够查看各种接口的运行方式
